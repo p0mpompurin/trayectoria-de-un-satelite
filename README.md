@@ -1,1 +1,2 @@
 # trayectoria-de-un-satelite
+El siguiente código calcula la trayectoria de un satélite mediante el control de sus condiciones iniciales, es decir, el usuario podrá ingresar parámetros propios para simular la trayectoria de un objeto alrededor del planeta selecto. Tener en cuenta que el código sólo simula cuando el objeto ya se halla en órbita, es decir, sin calcular su lanzamiento desde la tierra.
